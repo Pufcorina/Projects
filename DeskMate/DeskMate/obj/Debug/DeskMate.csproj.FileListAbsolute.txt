@@ -1,0 +1,47 @@
+c:\users\dorinel panaite\documents\visual studio 2015\Projects\DeskMate\DeskMate\bin\Debug\DeskMate.exe.config
+C:\Users\Dorinel Panaite\documents\visual studio 2015\Projects\DeskMate\DeskMate\bin\Debug\DeskMate.exe
+C:\Users\Dorinel Panaite\documents\visual studio 2015\Projects\DeskMate\DeskMate\bin\Debug\DeskMate.pdb
+C:\Users\Dorinel Panaite\documents\visual studio 2015\Projects\DeskMate\DeskMate\obj\Debug\DeskMate.csprojResolveAssemblyReference.cache
+C:\Users\Dorinel Panaite\documents\visual studio 2015\Projects\DeskMate\DeskMate\obj\Debug\DeskMate.MainForm.resources
+C:\Users\Dorinel Panaite\documents\visual studio 2015\Projects\DeskMate\DeskMate\obj\Debug\DeskMate.Properties.Resources.resources
+C:\Users\Dorinel Panaite\documents\visual studio 2015\Projects\DeskMate\DeskMate\obj\Debug\DeskMate.ReminderForm.resources
+C:\Users\Dorinel Panaite\documents\visual studio 2015\Projects\DeskMate\DeskMate\obj\Debug\DeskMate.Start.resources
+C:\Users\Dorinel Panaite\documents\visual studio 2015\Projects\DeskMate\DeskMate\obj\Debug\DeskMate.csproj.GenerateResource.Cache
+C:\Users\Dorinel Panaite\documents\visual studio 2015\Projects\DeskMate\DeskMate\obj\Debug\DeskMate.exe
+C:\Users\Dorinel Panaite\documents\visual studio 2015\Projects\DeskMate\DeskMate\obj\Debug\DeskMate.pdb
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\bin\Debug\Project_server.mdf
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\bin\Debug\Project_server_log.ldf
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\bin\Debug\DeskMate.exe.config
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\bin\Debug\DeskMate.exe
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\bin\Debug\DeskMate.pdb
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\obj\Debug\DeskMate.MainForm.resources
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\obj\Debug\DeskMate.Properties.Resources.resources
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\obj\Debug\DeskMate.ReminderForm.resources
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\obj\Debug\DeskMate.Smoking.resources
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\obj\Debug\DeskMate.Start.resources
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\obj\Debug\DeskMate.csproj.GenerateResource.Cache
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\obj\Debug\DeskMate.exe
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\obj\Debug\DeskMate.pdb
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\obj\Debug\Recipe_form.Recipie.resources
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\obj\Debug\DeskMate.csprojResolveAssemblyReference.cache
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\bin\Debug\Recipe form.exe
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\bin\Debug\Recipe form.pdb
+C:\Users\Dorinel Panaite\Documents\GitHub\DeskMate\DeskMate\obj\Debug\DeskMate.ReminderTiredForm.resources
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\bin\Debug\DeskMate.exe.config
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\obj\Debug\DeskMate.exe
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\obj\Debug\DeskMate.pdb
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\obj\Debug\DeskMate.csprojResolveAssemblyReference.cache
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\obj\Debug\DeskMate.MainForm.resources
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\obj\Debug\DeskMate.Properties.Resources.resources
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\obj\Debug\Recipe_form.Recipie.resources
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\obj\Debug\DeskMate.ReminderTiredForm.resources
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\obj\Debug\DeskMate.ReminderForm.resources
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\obj\Debug\DeskMate.Smoking.resources
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\obj\Debug\DeskMate.Start.resources
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\obj\Debug\DeskMate.csproj.GenerateResource.Cache
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\bin\Debug\Project_server.mdf
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\bin\Debug\Project_server_log.ldf
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\bin\Debug\DeskMate.exe
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\bin\Debug\DeskMate.pdb
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\obj\Debug\DeskMate.Brightness.resources
+F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\obj\Debug\DeskMate.Statistics.resources
