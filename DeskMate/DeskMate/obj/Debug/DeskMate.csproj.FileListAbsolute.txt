@@ -45,3 +45,6 @@ F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\bin\Debug\DeskMate.exe
 F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\bin\Debug\DeskMate.pdb
 F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\obj\Debug\DeskMate.Brightness.resources
 F:\Proiecte\DeskMate-master\DeskMate-master\DeskMate\obj\Debug\DeskMate.Statistics.resources
+F:\Hackaton\DeskMate-master\DeskMate\DeskMate\bin\Debug\DeskMate.exe.config
+F:\Hackaton\DeskMate-master\DeskMate\DeskMate\obj\Debug\DeskMate.exe
+F:\Hackaton\DeskMate-master\DeskMate\DeskMate\obj\Debug\DeskMate.pdb
